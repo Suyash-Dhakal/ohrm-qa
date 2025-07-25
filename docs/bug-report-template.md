@@ -197,5 +197,5 @@ Full name search works correctly. Issue only occurs with partial name searches.
 ---
 
 **Template Version:** 1.0  
-**Created By:** [Your Name]  
-**Date:** July 25, 2025
+**Created By:** Suyash Dhakal  
+**Date:** July 15, 2025
