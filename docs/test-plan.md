@@ -20,9 +20,7 @@
 - **Login/Authentication System**
 - **PIM (Personal Information Management)**
 - **Admin Module (User Management)**
-- **Leave Management**
-- **Recruitment**
-
+- **UI/UX**
 
 ### 3.2 Testing Types Covered:
 - Functional Testing
